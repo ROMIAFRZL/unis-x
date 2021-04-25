@@ -13,7 +13,7 @@ pip2 install mechanize
 ### USAGE
 ````
 git clone https://github.com/ROMIAFRZL/unis-x 
-cd UNIS3X
+cd unis-x
 ls 
 python2 uni.py
 ````
