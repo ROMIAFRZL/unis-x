@@ -15,6 +15,6 @@ pip2 install mechanize
 git clone https://github.com/ROMIAFRZL/unis-x 
 cd unis-x
 ls 
-python2 uni.py
+python2 unis-x.py
 ````
 #
